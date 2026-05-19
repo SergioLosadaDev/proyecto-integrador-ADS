@@ -3,9 +3,11 @@
 **Institución:** CORHUILA  
 **Asignatura:** Análisis y Diseño de Sistemas  
 **Equipo:**
-| Nombre | Rol |
-|--------|-----|
-| Sergio Andrés Losada Bahamón | Backend / DevOps |
+| Nombre |
+|--------|
+| Sergio Andrés Losada Bahamón |
+| Julio César Lozano |
+| Andrés Felipe Gómez|
 
 **Fecha:** 2026-05-18
 
